@@ -120,6 +120,9 @@ button{
         width: 80%;
         margin-left: 40px;
     }
+    .delim{
+        padding: 5px;
+    }
 
 }
 
