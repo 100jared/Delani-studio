@@ -104,8 +104,9 @@ button{
 
 @media only screen and (max-width: 400px) {
     /* For small devices: */
-    .amazing{
-        width: 80% !important;
+    .amazing p{
+        width: 80% ;
+        margin-left: 27px;
     }
     #about p{
         width: 80%;
