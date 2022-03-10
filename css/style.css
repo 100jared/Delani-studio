@@ -68,15 +68,7 @@ html{
 .fields{
     flex-wrap: wrap;
 }
-.fields #name{
-    width: 200px;
-    margin-left: 80px;
-}
-.fields #email{
-    margin-top: 30px;
-    width: 200px;
-    margin-left: 80px;
-}
+
 form{
     flex-wrap: wrap;
 }
@@ -122,7 +114,7 @@ button{
     }
     #about p{
         width: 80%;
-        margin-left: 20px;
+        margin-left: 40px;
 
     }
     .delan5{
@@ -134,6 +126,22 @@ button{
     }
     .delim{
         padding: 5px;
+    }
+    .fields #name{
+        width: 200px;
+        margin-left: 80px;
+    }
+    .fields #email{
+        margin-top: 30px;
+        width: 200px;
+        margin-left: 80px;
+    }
+    .text-area #message{
+        width: 260px;
+        height: 170px;
+        margin-left: -280px;
+        border: 3px solid white;
+        /* background-color: white; */
     }
 
 }
