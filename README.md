@@ -1,6 +1,6 @@
 # Delani studio
 
-##### By Gilbert Korir.
+##### Developed By [Gilbert Korir](https://github.com/100jared).
 ### 
 
 ## Table of Content
@@ -20,7 +20,7 @@
 
 ## Description
 
-<p>
+<p align="center">This is a fictional software development studio website built with HTML, CSS, Bootstrap, JavaScript & jQuery. The website showcases a Landing Page, About Us, Services, Project Portfolio, Clients & Contact Form.</p>
 
 <p align="center"><img src="https://github.com/100jared/Delani-studio/blob/master/images/bg.jpg" height="300px" width = "70%"> </p>
   
@@ -61,9 +61,11 @@
 [Back to the top](#delani-studio)
 
 ## Features
-
-* Toggled paragraphs on what we do section.
-* A responsive form with an alert message.
+* Contains a Landing Page section with a striking message.
+* Has an About Us section with a brief introduction to what the company does
+* The Service section shows 3 services the company offers
+* Has 8 projects included in the Project Portfolio section
+* A MailChimp contact form for reaching the company is also included*
 
 ## Licence
 [MIT LICENSE](https://github.com/100jared/Delani-studio/blob/master/LICENSE) <p>Gilbert korir &copy; 2022</p>
