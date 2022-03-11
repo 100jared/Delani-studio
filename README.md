@@ -22,7 +22,7 @@
 
 <p>
 
-<p align="center"><img src="" height="300px" width = "70%"> </p>
+<p align="center"><img src="https://github.com/100jared/Delani-studio/blob/master/images/bg.jpg" height="300px" width = "70%"> </p>
   
  ---
 
