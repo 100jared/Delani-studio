@@ -1,7 +1,7 @@
 # Delani studio
 
 ##### Developed By [Gilbert Korir](https://github.com/100jared).
-### 
+### This is a website for Delani Studio showing its services and a form to reach out to them.
 
 ## Table of Content
 
@@ -20,7 +20,7 @@
 
 ## Description
 
-<p align="center">This is a fictional software development studio website built with HTML, CSS, Bootstrap, JavaScript & jQuery. The website showcases a Landing Page, About Us, Services, Project Portfolio, Clients & Contact Form.</p>
+<p align="center">This is a Delani studio website built with HTML, CSS, Bootstrap, JavaScript & jQuery. The website showcases a Landing Page, About Us, Services, Project Portfolio, Contact Form and contact links.</p>
 
 <p align="center"><img src="https://github.com/100jared/Delani-studio/blob/master/images/bg.jpg" height="300px" width = "70%"> </p>
   
@@ -56,7 +56,7 @@
 
 ## Reference
 
-* HTML and Vanilla CSS, Bootstrap and JavaScript.
+* HTML and Vanilla CSS, Bootstrap, JavaScript and jQuery.
 
 [Back to the top](#delani-studio)
 
@@ -65,7 +65,7 @@
 * Has an About Us section with a brief introduction to what the company does
 * The Service section shows 3 services the company offers
 * Has 8 projects included in the Project Portfolio section
-* A MailChimp contact form for reaching the company is also included*
+* A MailChimp contact form for reaching the company is included
 
 ## Licence
 [MIT LICENSE](https://github.com/100jared/Delani-studio/blob/master/LICENSE) <p>Gilbert korir &copy; 2022</p>
