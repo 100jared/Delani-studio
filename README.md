@@ -37,9 +37,9 @@
 ## Set-up-instructions
 
 * Clone this repository to a location in your file system. 
-`git clone https://github.com/100jared/Akan-names.git`
+`git clone https://github.com/100jared/Delani-studio.git`
 
-* Open terminal command line then navigate to the root folder using: `cd Akan-names`
+* Open terminal command line then navigate to the root folder using: `cd Delani-studio`
 
 * Load the `index.html` on your Browser
 
@@ -48,10 +48,11 @@
 ## Technology Used
 
 ### The following technologies were used.
-* HTML - HTML is the standard markup language for Web pages. With HTML you can create your own Website. HTML is easy to learn. [HTML](https://www.w3schools.com/html/)
-* CSS - CSS is the language that styles and describes how HTML elements should be displayed. [CSS](https://www.w3schools.com/css/)
+* HTML - HTML is the standard markup language for Web pages. With HTML you can create your own Website. HTML is easy to learn. 
+* CSS - CSS is the language that styles and describes how HTML elements should be displayed. 
 * Bootstrap - this is a Css framework specifically for styling.
 * Javascript - this makes the web page interactive.
+* JQuery - this is a java script library. The purpose of jQuery is to make it much easier to use JavaScript on your website. jQuery takes a lot of common tasks that require many lines of JavaScript code to accomplish, and wraps them into methods that you can call with a single line of code.
 
 ## Reference
 
