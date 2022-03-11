@@ -36,9 +36,6 @@ html{
     height: 200px;
 
 }
-.inside:hover{
-
-}
 .displayin{
     opacity: 0.1;
     top: 30%;
@@ -46,6 +43,7 @@ html{
     right: 20%;
     /* float: left; */
     color: white;
+    opacity: 0.2;
     border: 3px solid white;
     background-color: black;
     -ms-transform: translate(-20%, -20%);
