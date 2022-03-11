@@ -43,7 +43,7 @@
 
 * Load the `index.html` on your Browser
 
-[Back to the top](#akan-names)
+[Back to the top](#delani-studio)
 
 ## Technology Used
 
@@ -58,7 +58,7 @@
 
 * HTML and Vanilla CSS, Bootstrap and JavaScript.
 
-[Back to the top](#akan-names)
+[Back to the top](#delani-studio)
 
 ## Features
 
@@ -70,7 +70,7 @@
 
 
 
-[Go Back to the top](#akan-names)
+[Go Back to the top](#delani-studio)
 
 ## Author's Info
 Name : Gilbert Korir.
@@ -79,3 +79,4 @@ github - [Gilbert K](https://github.com/100jared)
 
 Linkedin - [Gilbert K](https://www.linkedin.com/public-profile/settings)
 
+[Back to the top](#delani-studio)
