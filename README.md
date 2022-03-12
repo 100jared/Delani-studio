@@ -32,7 +32,7 @@
 
 * Get connected to an internet.
   
-* Here is the live link: 
+* Here is the live link: https://100jared.github.io/Delani-studio/
 
 ## Set-up-instructions
 
