@@ -1,6 +1,6 @@
 # Delani studio
 
-##### Developed By [Gilbert Korir](https://github.com/100jared).
+##### Developed By [Gilbert Korir](https://100jared.github.io/my-portfolio/).
 ### This is a website for Delani Studio showing its services and a form to reach out to them.
 
 ## Table of Content
